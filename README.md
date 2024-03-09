@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 [![python](https://img.shields.io/badge/Python--3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 [![pytorch](https://img.shields.io/badge/PyTorch--EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
-[![tensorflow](https://img.shields.io/badge/TensorFlow--FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)
+[![tensorflow](https://img.shields.io/badge/TensorFlow--FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org).
+![OpenCV](https://img.shields.io/badge/opencv--%23white.svg?style=flat&logo=opencv&logoColor=white)
+
+
 
 
 ## 📫 How to Reach Me:
